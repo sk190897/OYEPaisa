@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "498702949047",
+    "firebase_url": "https://oye-paisa-30824.firebaseio.com",
+    "project_id": "oye-paisa-30824",
+    "storage_bucket": "oye-paisa-30824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498702949047:android:b6374040cd2ecaa1",
+        "android_client_info": {
+          "package_name": "com.example.skambo.oyepaisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498702949047-27s06bhqotfhfm8dt8cbdaftm981q43k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skambo.oyepaisa",
+            "certificate_hash": "99cf0e30b2f51dca5b24fd0ca1c6a7d33775d509"
+          }
+        },
+        {
+          "client_id": "498702949047-krvdbgiti3nn9jk6jp90cvhpme0866e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmBuKfPPT4douKMMXfjMfaYir1mYtsmFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498702949047-krvdbgiti3nn9jk6jp90cvhpme0866e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9576259107695089~1630354670"
+    }
+  ],
+  "configuration_version": "1"
+}
